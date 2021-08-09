@@ -2,3 +2,4 @@
 ^renv\.lock$
 ^rPackagesTutorial\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
