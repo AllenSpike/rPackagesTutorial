@@ -1,2 +1,4 @@
+^renv$
+^renv\.lock$
 ^rPackagesTutorial\.Rproj$
 ^\.Rproj\.user$
