@@ -7,10 +7,9 @@
 #' @export
 #'
 #' @examples
-#' library(rPackageTutorial)
+#' library("rPackagesTutorial")
 #' add(1, 2)
 add <- function(a, b) {
-
-  # aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
   a + b
 }
+
