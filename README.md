@@ -4,6 +4,10 @@
 # rPackagesTutorial
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/AllenSpike/rPackagesTutorial/branch/main/graph/badge.svg)](https://codecov.io/gh/AllenSpike/rPackagesTutorial?branch=main)
+[![R-CMD-check](https://github.com/AllenSpike/rPackagesTutorial/workflows/R-CMD-check/badge.svg)](https://github.com/AllenSpike/rPackagesTutorial/actions)
 <!-- badges: end -->
 
 The goal of rPackagesTutorial is to …
